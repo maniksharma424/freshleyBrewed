@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Beginner's",
+    "title": "Music News",
+    "time": "1h 53m",
+    "rating": "4.9",
+    "imageUrl":"https://hips.hearstapps.com/pop.h-cdn.co/assets/16/21/2048x1024/landscape-1464183649-gettyimages-88617505.jpg?resize=1200:*",
+    "githubHandle":"sitebase"
+  },
+  {
+    "id": 2,
+    "name": "Advanced",
+    "title": "Music Theory",
+    "time": "59m",
+    "rating": "4.3",
+    "imageUrl":"https://media.istockphoto.com/id/1289481257/photo/a-crowded-concert-hall-with-scene-stage-lights-rock-show-performance-with-people-silhouette.jpg?b=1&s=612x612&w=0&k=20&c=i04jVo_GHeV4JdYwKoV8YFwE4TeuXs58sjKGNX56gbM=",
+    "githubHandle":"hkirat"
+  },
+  {
+    "id": 3,
+    "name": "Mastering",
+    "title": "Music Practice",
+    "time": "2h 15m",
+    "rating": "4.5",
+    "imageUrl":"https://media.istockphoto.com/id/1129490620/photo/midsection-of-man-playing-a-guitar-black-and-white.jpg?s=170667a&w=0&k=20&c=gBjVU4o6w8CmSxeoUvgX4t-a0bsC33dt7bY6feyPH0c=",
+    "githubHandle":"abhisheknaiidu"
+  },
+  {
+    "id": 4,
+    "name": "Lorem",
+    "title": "Music Theories",
+    "time": "1h 30m",
+    "rating": "4.5",
+    "imageUrl":"https://media.istockphoto.com/id/894058154/photo/musical-instruments.jpg?s=612x612&w=0&k=20&c=uB0TFyqeY1wu1BPyH2EB7NMoOCaSb86pk7YNQ5QVCGQ=",
+  "githubHandle":"minoveaz"}
+]
