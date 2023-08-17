@@ -1,5 +1,4 @@
 import React from "react";
-import NewsData from "../../db/latestNews.json";
 import { AiOutlineLineChart } from "react-icons/ai";
 import { FaGuitar } from "react-icons/fa";
 import { FaRoad } from "react-icons/fa";

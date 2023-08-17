@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image";
+
 import Avatar from "react-avatar";
 import { AiFillClockCircle } from "react-icons/ai";
 import { AiTwotoneStar } from "react-icons/ai";
