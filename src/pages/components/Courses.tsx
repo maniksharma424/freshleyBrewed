@@ -3,7 +3,7 @@ import courseData from "../../db/courses.json";
 
 import CourseCard from "./CourseCard";
 
-const Courses = () => {
+const Courses:React.FC = () => {
   return (
   <div className="   h-fit  w-full ">
       <h1 className=" lg:text-[30px] sm:text-[28px] text-[24px] mb-5 flex lg:justify-start sm:justify-start justify-center">

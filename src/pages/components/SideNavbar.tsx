@@ -7,7 +7,7 @@ import { TfiNotepad } from "react-icons/tfi";
 import { AiTwotoneSetting } from "react-icons/ai";
 import { RiLogoutBoxRLine } from "react-icons/ri";
 import Avatar from "react-avatar";
-const SideNavbar = () => {
+const SideNavbar:React.FC = () => {
   return (
     <div
       id="container"

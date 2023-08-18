@@ -6,7 +6,7 @@ import { FaLightbulb } from "react-icons/fa";
 import { BsMusicNoteBeamed } from "react-icons/bs";
 import { PiCalculatorFill } from "react-icons/pi";
 import { FaHeadphones } from "react-icons/fa";
-const News = () => {
+const News:React.FC = () => {
   const styleBox =
     "flex flex-col items-center justify-center lg:w-[150px] sm:w-[90px] w-[80px] border-[1px] border-black lg:p-3 sm:p-2 p-1 rounded-2xl m-1";
     const styleText = 'text-[14px]'

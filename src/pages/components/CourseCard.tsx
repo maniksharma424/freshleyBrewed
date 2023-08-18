@@ -15,7 +15,6 @@ interface prop {
   };
 }
 const CourseCard: React.FC<prop> = ({ course }) => {
-  console.log(course?.id);
 
   return (
     <div
