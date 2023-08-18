@@ -3,7 +3,7 @@ import progressData from "../../db/progress.json";
 import ProgressCard from "./ProgressCard";
 const Progress = () => {
   return (
-    <div className=" h-fit  w-full lg:pr-20 sm:pr010 pr-0">
+    <div className=" h-fit  w-full ">
       <h1 className=" lg:text-[30px] sm:text-[28px] text-[24px] mb-5 flex lg:justify-start sm:justify-start justify-center">
         My Progress
       </h1>

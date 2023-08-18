@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
       <main className="flex w-full h-screen ">
         <SideNavbar />
-        <div id="container" className="w-full h-screen lg:p-8 sm:p-5 p-3 overflow-scroll">
+        <div id="container" className="w-full h-screen lg:p-8 sm:p-5 p-3 overflow-scroll lg:pr-20 sm:pr-10 pr-0">
           <Courses />
           <News />
           <Progress />

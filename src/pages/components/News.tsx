@@ -11,7 +11,7 @@ const News = () => {
     "flex flex-col items-center justify-center lg:w-[150px] sm:w-[90px] w-[80px] border-[1px] border-black lg:p-3 sm:p-2 p-1 rounded-2xl m-1";
     const styleText = 'text-[14px]'
   return (
-    <div className=" h-fit py-7 w-full lg:pr-20 sm:pr010 pr-0">
+    <div className=" h-fit py-7 w-full">
       <h1 className=" lg:text-[30px] sm:text-[28px] text-[24px] mb-5 flex lg:justify-start sm:justify-start justify-center">
         Latest News
       </h1>
