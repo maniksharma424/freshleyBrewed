@@ -32,7 +32,7 @@ const CourseCard: React.FC<prop> = ({ course }) => {
       </div>
 
       <div className=" p-2 w-full h-1/2 flex flex-col justify-around">
-        <button className="flex justify-between p-1 items-center w-fit border-[0.5px] border-black rounded-2xl  bg-white relative bottom-6 ">
+        <button className="flex justify-between p-1 items-center w-fit lg:border-[0.5px] border-[1px] border-black rounded-2xl  bg-white relative bottom-6 ">
           <Avatar githubHandle={course?.githubHandle} size="25" round="25px" />
           <span className="mx-1">{course?.name}</span>
         </button>

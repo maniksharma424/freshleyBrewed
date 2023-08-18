@@ -15,7 +15,7 @@ const Progress = () => {
           <ProgressCard key={progress?.id} progress={progress} />
         ))}
       </div>
-      <div className="w-full flex justify-center items-center">
+      <div className="w-full flex justify-center items-center py-5">
         <button className="bg-[#f71b1b] text-white px-10 py-1 relative top-5 rounded-2xl  ">
           View All
         </button>
