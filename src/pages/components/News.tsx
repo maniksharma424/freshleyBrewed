@@ -15,7 +15,7 @@ const News = () => {
       <h1 className=" lg:text-[30px] sm:text-[28px] text-[24px] mb-5 flex lg:justify-start sm:justify-start justify-center">
         Latest News
       </h1>
-      <ul id="newsContainer" className="w-full flex lg:justify-between sm:justify-between justify-center flex-wrap">
+      <ul id="newsContainer" className="w-full flex lg:justify-between sm:justify-between justify-between flex-wrap">
         <li className={styleBox}>
           <AiOutlineLineChart className="font-[700] text-[25px]" />
           <p className={styleText}>Musicians</p>

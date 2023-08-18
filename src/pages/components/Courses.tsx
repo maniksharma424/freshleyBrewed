@@ -9,7 +9,7 @@ const Courses = () => {
       </h1>
       <div
         id="Course-container"
-        className="w-full h-1/3 flex lg:justify-between sm:justify-between justify-center items-center flex-wrap"
+        className="w-full h-1/3 flex lg:justify-between sm:justify-between custm:justify-between justify-center items-center flex-wrap"
       >
         {courseData.map((course) => (
           <CourseCard key={course?.id} course={course} />

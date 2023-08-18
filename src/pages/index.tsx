@@ -24,7 +24,7 @@ const auth = () => {
       <Head>
         <title>Auth</title>
       </Head>
-      <div className="w-full h-screen flex justify-center items-center bg-custom-bg bg-cover bg-no-repeat">
+      <div className="w-full h-screen flex justify-center items-center bg-custom-bg bg-cover bg-no-repeat font-monstreat">
         <ToastContainer />
         <div className="border-[1px] lg:w-1/3 sm:h-3/4 sm:w-2/4 sm:3/4 w-2/3 h-3/5 bg-[#21211f] border-[#21211f] rounded-xl lg:p-10 sm:p-8 p-5 flex flex-col justify-evenly">
           <div

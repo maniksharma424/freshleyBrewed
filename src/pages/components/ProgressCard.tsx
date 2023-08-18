@@ -11,7 +11,9 @@ interface prop {
 }
 const ProgressCard: React.FC<prop> = ({ progress }) => {
   return (
-    <div className="flex p-1 lg:w-[590px] lg:h-[150px]  border-[1px] border-gray-500 rounded-2xl m-1 lg:text-[13px] lg:font-[300] sm:text-[12px] sm:font-[200] text-[9px]  font-[200]">
+    <div className="flex p-1 lg:w-[35rem] md:w-full sm:w-full w-full 
+    lg:h-[150px] 
+    border-[1px] border-gray-500 rounded-2xl m-1 lg:text-[13px] lg:font-[300] sm:text-[12px] sm:font-[200] text-[9px]  font-[200]">
       <img
         src={progress?.imageUrl}
         alt="img"
@@ -19,7 +21,7 @@ const ProgressCard: React.FC<prop> = ({ progress }) => {
       />
       <div id="info" className="w-3/4 py-1 px-4">
         <p className="w-full flex justify-between ">
-          <span className="lg:text-[15px] font-[500] sm:text-[14px] text-[12px]">
+          <span className="lg:text-[15px] font-[700] sm:text-[14px] text-[12px]">
             {progress?.title}
           </span>
           <span className="p-2 rounded-2xl bg-[#f71b1b] text-white">

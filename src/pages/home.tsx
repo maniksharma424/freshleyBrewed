@@ -13,9 +13,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="flex w-full h-screen ">
+      <main className="flex w-full h-screen font-monstreat">
         <SideNavbar />
-        <div id="container" className="w-full h-screen lg:p-8 sm:p-5 p-3 overflow-scroll lg:pr-20 sm:pr-10 pr-0">
+
+        <div id="container" className="w-full h-screen lg:p-8 sm:p-5 p-3 overflow-scroll lg:pr-36 sm:pr-10 pr-0">
           <Courses />
           <News />
           <Progress />
