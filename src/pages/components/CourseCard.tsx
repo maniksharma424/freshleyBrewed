@@ -19,7 +19,7 @@ const CourseCard: React.FC<prop> = ({ course }) => {
 
   return (
     <div
-      className=" lg:w-[260px] lg:h-[210px] sm:w-[200px] sm:h-1/3 h-[150px] w-[150px]
+      className=" lg:w-[260px] lg:h-[210px] sm:w-[200px] sm:h-1/3 h-[150px] w-[145px]
 
      p-1 m-1 lg:text-[13px] lg:font-[300] sm:text-[12px] sm:font-[200] text-[9px]  font-[200] border-[1px] border-black rounded-3xl  "
     >

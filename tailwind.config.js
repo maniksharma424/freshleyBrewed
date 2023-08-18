@@ -9,10 +9,6 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    screens: {
-      'custm':"330px"
-    },
-
     extend: {
       backgroundImage: {
         "custom-bg":
